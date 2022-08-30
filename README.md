@@ -1,4 +1,4 @@
-# Login-Screen-League-of-Legends
+# Login Screen League of Legends
 
 Pequeno estudo de CSS e HTML. Recriei a tela de login de um jogo que joguei por muitos anos.
 
